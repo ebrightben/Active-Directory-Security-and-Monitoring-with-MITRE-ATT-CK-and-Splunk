@@ -9,7 +9,6 @@ The project aimed to develop an Active Directory (AD) environment simulating a r
 
 
 <h2>Languages, Environments and Utilities Used</h2>
-## **Environment Setup**
 
 ### **Virtual Machines:**  
 Four virtual machines were deployed in **VirtualBox** to create a comprehensive lab environment:
