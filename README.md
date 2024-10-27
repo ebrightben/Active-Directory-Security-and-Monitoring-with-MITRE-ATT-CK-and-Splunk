@@ -53,7 +53,7 @@ Four virtual machines were deployed in **VirtualBox** to create a comprehensive 
 <h2>Program walk-through:</h2> 
  Active Directory & Splunk Security Lab Synopsis
 
-This project involved setting up a cybersecurity lab that integrates **Active Directory (AD)**, **Splunk**, and **MITRE ATT&CK** techniques to simulate, detect, and analyze security events. The lab environment includes virtual machines for **Windows Server 2022**, **Windows 10**, **Kali Linux**, and **Ubuntu (Splunk server)**. Throughout the process, I configured **universal forwarders** and **Sysmon** on the **Windows 10** and **Windows 2022 server** machines to forward security logs to Splunk for real-time monitoring and analysis.
+This project involved setting up a cybersecurity lab that integrates **Active Directory (AD)**, **Splunk**, **MITRE ATT&CK** and **Crowbar** techniques to simulate, detect, and analyze security events. The lab environment includes virtual machines for **Windows Server 2022**, **Windows 10**, **Kali Linux**, and **Ubuntu (Splunk server)**. Throughout the process, I configured **universal forwarders** and **Sysmon** on the **Windows 10** and **Windows 2022 server** machines to forward security logs to Splunk for real-time monitoring and analysis.
 
 ---
 
